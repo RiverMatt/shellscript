@@ -1,5 +1,9 @@
 #!/bin/bash
 
+########################################################################
+### Counts up to a set number and reports x at each step, echoing a specific string if x is the number 0 ###
+########################################################################
+
 x=0
 count=0
 
